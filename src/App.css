@@ -1,7 +1,7 @@
 @import '~antd/dist/antd.css';
 
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -57,4 +57,21 @@
 
 p{
   margin:0px;
+}
+
+.ant-carousel .slick-slide {
+  height: 400px;
+  line-height: 160px;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.text{
+  background: #d9bf77;
+  text-align: left;
+  padding: 8px;
 }
