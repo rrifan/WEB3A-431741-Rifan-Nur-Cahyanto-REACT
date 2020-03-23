@@ -26,7 +26,7 @@ import {
         <div className="menu-container">
               <Row justify="space-between">
                   <Col span={4}>
-                      <h1>Atap Negeri</h1>
+                      <h1>Jogjaku</h1>
                   </Col>
                   <Col span={8}>
                               <Menu onClick={this.handleClick} selectedKeys={[this.state.current]} mode="horizontal">
@@ -48,7 +48,6 @@ import {
                                 >
                                   <Menu.ItemGroup>
                                     <Menu.Item key="setting:1">Tampilan</Menu.Item>
-                                    <Menu.Item key="setting:2">Tentang</Menu.Item>
                                   </Menu.ItemGroup>
                                 </SubMenu>
                               </Menu>
