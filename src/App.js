@@ -91,7 +91,7 @@ function App(){
         <Comnt> </Comnt>
         </Content>
       
-        <Footer style={{textAlign: 'center', background:'#639a67', color: '#ffffff' }}>
+        <Footer style={{textAlign: 'center', background:'#d9bf77', color: '#ffffff' }}>
           Jogjaku 
         </Footer>
       </Layout>
