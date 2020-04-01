@@ -1,8 +1,9 @@
 import React, { Component } from 'react'; 
-import { Layout, Row, Col, Modal, Button, Carousel } from 'antd'; 
+import { Layout, Row, Col, Avatar } from 'antd'; 
 import '../App.css' 
 import { Link } from 'react-router-dom';
 import TopMenu from './header.js'
+import { UserOutlined } from '@ant-design/icons';
 
 const key = 'updatable';
 
@@ -25,10 +26,10 @@ const Profile = () => {
                 <Row>
                     <Col span={12} offset={6}>
                     <div>
-                    <img
+                    <Avatar
                         src={image1}
                         alt="Home 1"
-                        style={{maxWidth: '80%'}}/> 
+                        /> 
                     </div>
                     </Col>
                 </Row>
