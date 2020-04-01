@@ -19,14 +19,13 @@ const Profile = () => {
     return(
         <Layout>
             
-            <Header style={{padding:10, background:'white'}}>
-                <TopMenu> </TopMenu>
-            </Header>
+            
             <Content style={{padding:20, textAlign: 'center'}}>
                 <Row>
                     <Col span={12} offset={6}>
                     <div>
                     <Avatar
+                        size={400}
                         src={image1}
                         alt="Home 1"
                         /> 
@@ -39,7 +38,7 @@ const Profile = () => {
                 <Col span={12} offset={6}>
                     <div>
                         <span style={{fontSize : "36px"}}><h1>Jogjaku</h1></span>
-                        <span >Yogyakarta terbuat dari rindu</span>
+                        <span >Yogyakarta terbuat dari rindu,cinta dan kenyamanan</span>
                     </div>
                 </Col>
             </Row>

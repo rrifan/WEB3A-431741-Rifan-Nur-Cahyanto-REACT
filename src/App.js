@@ -24,9 +24,7 @@ function App(){
   return(
     <div class= "App">
       <Layout>
-        <Header  style={{padding:10, background:'white'}}>
-          <TopMenu> </TopMenu>
-        </Header>
+        
 
         <Content style={{padding:10, textAlign: 'center', background:'#d9bf77' }}>
           <Row>

@@ -33,11 +33,11 @@ import {
                               <Menu onClick={this.handleClick} selectedKeys={[this.state.current]} mode="horizontal">
                                 <Menu.Item key="mail">
                                   <HomeOutlined />
-                                  <Link to='/'>{this.state.profile} Home</Link>
+                                  <Link to='/'> Home</Link>
                                 </Menu.Item>
                                 <Menu.Item key="app">
                                   <ProfileOutlined />
-                                  <Link to='/profile'>{this.state.profile} Profil</Link>
+                                  <Link to='/profile'> Profil</Link>
                                 </Menu.Item>
                                 <SubMenu
                                   title={
