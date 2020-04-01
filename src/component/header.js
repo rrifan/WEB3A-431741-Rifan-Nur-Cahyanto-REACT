@@ -1,6 +1,7 @@
 import React from 'react';
 import { Menu } from 'antd';
 import { Row, Col} from 'antd';
+import { Link } from 'react-router-dom';
 import {
     HomeOutlined,
     ProfileOutlined,
@@ -32,11 +33,11 @@ import {
                               <Menu onClick={this.handleClick} selectedKeys={[this.state.current]} mode="horizontal">
                                 <Menu.Item key="mail">
                                   <HomeOutlined />
-                                  Beranda
+                                  <Link to='/'>{this.state.profile} Home</Link>
                                 </Menu.Item>
                                 <Menu.Item key="app">
                                   <ProfileOutlined />
-                                  Profil
+                                  <Link to='/profile'>{this.state.profile} Profil</Link>
                                 </Menu.Item>
                                 <SubMenu
                                   title={
