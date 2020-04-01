@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/precache-manifest.7ccd9724949e55e811fb2c80997c821b.js"
+  "/rrifan/web3a-react.git/precache-manifest.8573e055670ba88100289c89d1476d96.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/rrifan/web3a-react.git/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });

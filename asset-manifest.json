@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/css/main.091d8e90.chunk.css",
-    "main.js": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/js/main.0ac715be.chunk.js",
-    "main.js.map": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/js/main.0ac715be.chunk.js.map",
-    "runtime-main.js": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/js/runtime-main.c7713653.js",
-    "runtime-main.js.map": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/js/runtime-main.c7713653.js.map",
-    "static/css/2.4b6e3ef2.chunk.css": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.85495bc7.chunk.js": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/js/2.85495bc7.chunk.js",
-    "static/js/2.85495bc7.chunk.js.map": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/js/2.85495bc7.chunk.js.map",
-    "index.html": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/index.html",
-    "precache-manifest.7ccd9724949e55e811fb2c80997c821b.js": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/precache-manifest.7ccd9724949e55e811fb2c80997c821b.js",
-    "service-worker.js": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/service-worker.js",
-    "static/css/2.4b6e3ef2.chunk.css.map": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/css/2.4b6e3ef2.chunk.css.map",
-    "static/css/main.091d8e90.chunk.css.map": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/css/main.091d8e90.chunk.css.map",
-    "static/js/2.85495bc7.chunk.js.LICENSE.txt": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/js/2.85495bc7.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/static/media/1.04f1b3a1.jpg"
+    "main.css": "/rrifan/web3a-react.git/static/css/main.091d8e90.chunk.css",
+    "main.js": "/rrifan/web3a-react.git/static/js/main.416c2e6f.chunk.js",
+    "main.js.map": "/rrifan/web3a-react.git/static/js/main.416c2e6f.chunk.js.map",
+    "runtime-main.js": "/rrifan/web3a-react.git/static/js/runtime-main.1735586a.js",
+    "runtime-main.js.map": "/rrifan/web3a-react.git/static/js/runtime-main.1735586a.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/rrifan/web3a-react.git/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.7604af07.chunk.js": "/rrifan/web3a-react.git/static/js/2.7604af07.chunk.js",
+    "static/js/2.7604af07.chunk.js.map": "/rrifan/web3a-react.git/static/js/2.7604af07.chunk.js.map",
+    "index.html": "/rrifan/web3a-react.git/index.html",
+    "precache-manifest.8573e055670ba88100289c89d1476d96.js": "/rrifan/web3a-react.git/precache-manifest.8573e055670ba88100289c89d1476d96.js",
+    "service-worker.js": "/rrifan/web3a-react.git/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/rrifan/web3a-react.git/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.091d8e90.chunk.css.map": "/rrifan/web3a-react.git/static/css/main.091d8e90.chunk.css.map",
+    "static/js/2.7604af07.chunk.js.LICENSE.txt": "/rrifan/web3a-react.git/static/js/2.7604af07.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/rrifan/web3a-react.git/static/media/1.04f1b3a1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7713653.js",
+    "static/js/runtime-main.1735586a.js",
     "static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.85495bc7.chunk.js",
+    "static/js/2.7604af07.chunk.js",
     "static/css/main.091d8e90.chunk.css",
-    "static/js/main.0ac715be.chunk.js"
+    "static/js/main.416c2e6f.chunk.js"
   ]
 }
