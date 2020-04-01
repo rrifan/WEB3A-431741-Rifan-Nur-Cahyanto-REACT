@@ -2,7 +2,7 @@
   "name": "web3",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/rrifan/web3a-react",
+  "homepage": "https://rrifan.github.io/web3a-react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
