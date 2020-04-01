@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/rrifan/web3a-react/static/css/main.091d8e90.chunk.css",
-    "main.js": "/rrifan/web3a-react/static/js/main.1297b5df.chunk.js",
-    "main.js.map": "/rrifan/web3a-react/static/js/main.1297b5df.chunk.js.map",
-    "runtime-main.js": "/rrifan/web3a-react/static/js/runtime-main.044917aa.js",
-    "runtime-main.js.map": "/rrifan/web3a-react/static/js/runtime-main.044917aa.js.map",
-    "static/css/2.4b6e3ef2.chunk.css": "/rrifan/web3a-react/static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.7c790a18.chunk.js": "/rrifan/web3a-react/static/js/2.7c790a18.chunk.js",
-    "static/js/2.7c790a18.chunk.js.map": "/rrifan/web3a-react/static/js/2.7c790a18.chunk.js.map",
-    "index.html": "/rrifan/web3a-react/index.html",
-    "precache-manifest.931d56e10114094627f0e1b2a28a0162.js": "/rrifan/web3a-react/precache-manifest.931d56e10114094627f0e1b2a28a0162.js",
-    "service-worker.js": "/rrifan/web3a-react/service-worker.js",
-    "static/css/2.4b6e3ef2.chunk.css.map": "/rrifan/web3a-react/static/css/2.4b6e3ef2.chunk.css.map",
-    "static/css/main.091d8e90.chunk.css.map": "/rrifan/web3a-react/static/css/main.091d8e90.chunk.css.map",
-    "static/js/2.7c790a18.chunk.js.LICENSE.txt": "/rrifan/web3a-react/static/js/2.7c790a18.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/rrifan/web3a-react/static/media/1.04f1b3a1.jpg"
+    "main.css": "/web3a-react/static/css/main.091d8e90.chunk.css",
+    "main.js": "/web3a-react/static/js/main.6694ad16.chunk.js",
+    "main.js.map": "/web3a-react/static/js/main.6694ad16.chunk.js.map",
+    "runtime-main.js": "/web3a-react/static/js/runtime-main.9b8aec89.js",
+    "runtime-main.js.map": "/web3a-react/static/js/runtime-main.9b8aec89.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/web3a-react/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.7c790a18.chunk.js": "/web3a-react/static/js/2.7c790a18.chunk.js",
+    "static/js/2.7c790a18.chunk.js.map": "/web3a-react/static/js/2.7c790a18.chunk.js.map",
+    "index.html": "/web3a-react/index.html",
+    "precache-manifest.860fd6edb13e273ef075885e6f75cb64.js": "/web3a-react/precache-manifest.860fd6edb13e273ef075885e6f75cb64.js",
+    "service-worker.js": "/web3a-react/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/web3a-react/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.091d8e90.chunk.css.map": "/web3a-react/static/css/main.091d8e90.chunk.css.map",
+    "static/js/2.7c790a18.chunk.js.LICENSE.txt": "/web3a-react/static/js/2.7c790a18.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/web3a-react/static/media/1.04f1b3a1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.044917aa.js",
+    "static/js/runtime-main.9b8aec89.js",
     "static/css/2.4b6e3ef2.chunk.css",
     "static/js/2.7c790a18.chunk.js",
     "static/css/main.091d8e90.chunk.css",
-    "static/js/main.1297b5df.chunk.js"
+    "static/js/main.6694ad16.chunk.js"
   ]
 }
