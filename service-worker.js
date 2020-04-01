@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/precache-manifest.9a8cb938337634e761627b33d49eeea8.js"
+  "/rrifan/WEB3A-431741-Rifan-Nur-Cahyanto-REACT.git/precache-manifest.7ccd9724949e55e811fb2c80997c821b.js"
 );
 
 self.addEventListener('message', (event) => {
